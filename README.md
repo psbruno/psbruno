@@ -1,6 +1,6 @@
 # I'm Bruno Pires!
 
-- 🖱 I’m a computational engineering student in UNIFESP
+- 🖱 I’m a computational engineering student at UNIFESP
 - 🦾 I'm an AI enjoyer, which I most studied in recent years
 
 
