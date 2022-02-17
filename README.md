@@ -1,7 +1,7 @@
 # I'm Bruno Pires!
 
 - 🖱 I’m a computer science student at UNIFESP
-- 🦾 I'm an AI enjoyer, which I most studied in recent years
+- 🦾 I'm an AI enjoyer, which I studied most in recent years
 
 
 <div>  
